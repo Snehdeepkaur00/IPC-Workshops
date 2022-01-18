@@ -1,14 +1,16 @@
 *****************************************************************************
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Snehdeep Kaur
+Student ID#: 152498218
+Email      : snehdeep-kaur2@myseneca.ca
+Section    : ZCC
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
 shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 *****************************************************************************
-
+while doing this workshop , I have learnt how to create a C program in visual studio, connecting to matrix server and create directories to store my workshops by using putty and VPN. Moreover, I get to know about WINSCP client application which helps in submitting the workshop using SSH client application.
+SSH stands for secure shell protocol which is a client server application which helps in managing or controlling the remote access over the internet. It has 22 ports, a host and a  network protocol. It gives us access to communication between the localmachine and the remote host. the window users can use putty as SSH client. It helps me  in making connection to the matrix server  and als helps me to submit my file with the help of putty. 
+SFTP stands for ssh file transfer protocol which is also a client server protocol.It helps users to transfer and manage the files over the internet. It can be used only in the presencr of SSH server . I used the SFTP protocol to transfer my c program file and the reflection file from the local computer to a remote user.
